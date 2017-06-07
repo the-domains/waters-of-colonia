@@ -1,19 +1,19 @@
-layout_spectrum: 0.2075998018463465
-typography_spectrum: 0.4984565582888035
+layout_spectrum: 0.4010600970057531
+typography_spectrum: 0.187125816934991
 color:
-  lightness: 0.3235041165261502
+  lightness: 0.24645032691271365
   brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
-  saturation: 0.028863586854042098
-  brandStrength: 0.5981493770242622
-  rhythmicContrast: 0.40924233608823823
+    - '#332532'
+    - '#644D52'
+    - '#F77A52'
+    - '#FF974F'
+    - '#A49A87'
+  saturation: 0.09927770819911494
+  brandStrength: 0.21172177495868266
+  rhythmicContrast: 0.9024732092169511
 coverPrefs:
   filter: false
-name: Waters of Colonia
+name: Stigmes
 analytics: {}
 github: true
 author: {}
