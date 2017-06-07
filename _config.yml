@@ -1,16 +1,16 @@
-layout_spectrum: 0.4652713391343408
-typography_spectrum: 0.19047707536469888
+layout_spectrum: 0.4130916520569584
+typography_spectrum: 0.07076155010426399
 color:
-  lightness: 0.9795011264012001
+  lightness: 0.1764156075275623
   brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
-  saturation: 0.027741595802847113
-  brandStrength: 0.5963931223715074
-  rhythmicContrast: 0.5035224526170825
+    - '#F9E4AD'
+    - '#E6B098'
+    - '#CC4452'
+    - '#723147'
+    - '#31152B'
+  saturation: 0.8515002132328873
+  brandStrength: 0.6073899343462273
+  rhythmicContrast: 0.12939972130904473
 coverPrefs:
   filter: false
 name: Waters of Colonia
