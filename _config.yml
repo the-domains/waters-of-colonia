@@ -1,4 +1,4 @@
-name: Waters of Colonia
+name: Moments
 analytics: {}
 github: true
 author: {}
@@ -8,26 +8,28 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 content: []
-layout_spectrum: 0.548256644383995
+layout_spectrum: 0.8126225613056692
 color:
-  lightness: 0.06648669625337392
+  lightness: 0.06217996433948968
   brandColors:
-    - '#25064D'
-    - '#36175E'
-    - '#553285'
-    - '#7B52AB'
-    - '#9768D1'
-  saturation: 0.5897844324139232
-  brandStrength: 0.5812157219508202
-  rhythmicContrast: 0.2885288423579186
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+  saturation: 0.5854405744667026
+  brandStrength: 0.5953020229397138
+  rhythmicContrast: 0.2859157888183721
 content_rating:
   adult: false
-typography_spectrum: 0.3910749404894944
+typography_spectrum: 0.9648063498746493
 opengraph: {}
+coverPrefs:
+  filter: false
