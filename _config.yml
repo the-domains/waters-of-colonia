@@ -1,18 +1,3 @@
-layout_spectrum: 0.4130916520569584
-typography_spectrum: 0.07076155010426399
-color:
-  lightness: 0.1764156075275623
-  brandColors:
-    - '#F9E4AD'
-    - '#E6B098'
-    - '#CC4452'
-    - '#723147'
-    - '#31152B'
-  saturation: 0.8515002132328873
-  brandStrength: 0.6073899343462273
-  rhythmicContrast: 0.12939972130904473
-coverPrefs:
-  filter: false
 name: Waters of Colonia
 analytics: {}
 github: true
@@ -30,6 +15,19 @@ collections:
     permalink:
       path: '/:title/'
 content: []
+layout_spectrum: 0.548256644383995
+color:
+  lightness: 0.06648669625337392
+  brandColors:
+    - '#25064D'
+    - '#36175E'
+    - '#553285'
+    - '#7B52AB'
+    - '#9768D1'
+  saturation: 0.5897844324139232
+  brandStrength: 0.5812157219508202
+  rhythmicContrast: 0.2885288423579186
 content_rating:
   adult: false
+typography_spectrum: 0.3910749404894944
 opengraph: {}
