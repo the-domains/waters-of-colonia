@@ -1,16 +1,16 @@
-layout_spectrum: 0.4010600970057531
-typography_spectrum: 0.187125816934991
+layout_spectrum: 0.6757224201287447
+typography_spectrum: 0.7460812609090405
 color:
-  lightness: 0.24645032691271365
+  lightness: 0.5256478557670212
   brandColors:
-    - '#332532'
-    - '#644D52'
-    - '#F77A52'
-    - '#FF974F'
-    - '#A49A87'
-  saturation: 0.09927770819911494
-  brandStrength: 0.21172177495868266
-  rhythmicContrast: 0.9024732092169511
+    - '#F9E4AD'
+    - '#E6B098'
+    - '#CC4452'
+    - '#723147'
+    - '#31152B'
+  saturation: 0.8041032858875277
+  brandStrength: 0.16478494998602436
+  rhythmicContrast: 0.37600666506907504
 coverPrefs:
   filter: false
 name: Stigmes
