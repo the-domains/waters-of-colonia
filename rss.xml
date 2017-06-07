@@ -4,9 +4,16 @@
         <description><![CDATA[Stigmes]]></description>
         <link>https://thegrid.ai/waters-of-colonia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 05 Jun 2017 20:02:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2017 20:02:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/waters-of-colonia/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 05 Jun 2017 20:02:35 GMT</pubDate>
+        <pubDate>Mon, 05 Jun 2017 20:02:40 GMT</pubDate>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[Nuclear Fission with Gely Papaevaggelou,<article><img src="https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/18740375_10155402259743156_395487707805055614_n.jpg?oh=f44b14f754dd458daba8ed67d870fe6e&oe=59DF00C3"></article>]]></description>
+            <link>https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/18740375_10155402259743156_395487707805055614_n.jpg?oh=f44b14f754dd458daba8ed67d870fe6e&amp;oe=59DF00C3</link>
+            <guid isPermaLink="false">e9fd0faa-c750-428d-99cc-0aefc9731981</guid>
+            <pubDate>Mon, 05 Jun 2017 20:02:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[Frei-Tag,<article><img src="https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/18670755_10155372474873156_6978302100705583710_n.jpg?oh=e0e2f1dd55cbea88dd6e7a834d01468c&oe=59D9C19E"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/18664390_10155364435803156_1574571877281664420_n.jpg?oh=a25bacf46550bb805fd92c2723f95565&amp;oe=59BA9F9B</link>
             <guid isPermaLink="false">777d244c-2d91-4899-a5c3-654709e07744</guid>
             <pubDate>Tue, 23 May 2017 15:42:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Relaxing day</p>,<img src="https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/18519802_10155356449803156_1190836290560241491_n.jpg?oh=e92967ee72cead29a59c90d1b8379a5c&oe=59BE32DF">]]></description>
-            <link>https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/18519802_10155356449803156_1190836290560241491_n.jpg?oh=e92967ee72cead29a59c90d1b8379a5c&amp;oe=59BE32DF</link>
-            <guid isPermaLink="false">dc22bd16-d45a-437c-b193-b4925dd941ad</guid>
-            <pubDate>Sat, 20 May 2017 21:36:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
