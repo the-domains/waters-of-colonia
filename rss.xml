@@ -4,9 +4,16 @@
         <description><![CDATA[Stigmes]]></description>
         <link>https://thegrid.ai/waters-of-colonia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 09 Jun 2017 14:15:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2017 20:46:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/waters-of-colonia/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 09 Jun 2017 14:15:39 GMT</pubDate>
+        <pubDate>Fri, 09 Jun 2017 20:46:20 GMT</pubDate>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Sun of a beach</p>,<img src="https://scontent.xx.fbcdn.net/v/t1.0-9/q85/s720x720/17884183_10155231838863156_4305256992697747081_n.jpg?oh=c79aa5fe0263c4e7c7d7e74471552505&oe=59DF1EE2">]]></description>
+            <link>https://scontent.xx.fbcdn.net/v/t1.0-9/q85/s720x720/17884183_10155231838863156_4305256992697747081_n.jpg?oh=c79aa5fe0263c4e7c7d7e74471552505&amp;oe=59DF1EE2</link>
+            <guid isPermaLink="false">5331c590-721a-4c26-8fda-5937a3b81f2d</guid>
+            <pubDate>Fri, 09 Jun 2017 20:46:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>They spray us</p>,<img src="https://scontent.xx.fbcdn.net/v/t1.0-9/q84/s720x720/18920182_10155423059333156_7026136837872431326_n.jpg?oh=f0131c40e0a44a346dd33929891e79e5&oe=59DA51F0">]]></description>
@@ -69,13 +76,6 @@
             <link>https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/18740095_10155372242208156_8492271183491524483_n.jpg?oh=ce6b04393b4cef2bca7ad59da5bbd1d4&amp;oe=59BB80F8</link>
             <guid isPermaLink="false">b0f6c79d-af15-4733-8fc6-fced62fce08d</guid>
             <pubDate>Sun, 28 May 2017 10:50:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[Ascend,<article><img src="https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/18768478_10155379189783156_6412157189730701515_o.jpg?oh=cbbbb5fdf957fa01670e9eb6a43bd8ee&oe=59AA4361"></article>]]></description>
-            <link>https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/18768478_10155379189783156_6412157189730701515_o.jpg?oh=cbbbb5fdf957fa01670e9eb6a43bd8ee&amp;oe=59AA4361</link>
-            <guid isPermaLink="false">727d7665-2f82-4584-aba9-09cd65cbda58</guid>
-            <pubDate>Sun, 28 May 2017 10:49:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
