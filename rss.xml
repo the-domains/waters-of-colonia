@@ -4,9 +4,16 @@
         <description><![CDATA[Stigmes]]></description>
         <link>https://thegrid.ai/waters-of-colonia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 09 Jun 2017 21:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2017 22:21:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/waters-of-colonia/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 09 Jun 2017 21:20:22 GMT</pubDate>
+        <pubDate>Fri, 09 Jun 2017 22:21:44 GMT</pubDate>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[Summer,<article><img src="https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/19059086_10155425025823156_8977463074713160928_n.jpg?oh=b00855e206e5725c2fb5a5f86b7c9b7e&oe=59D93D79"></article>]]></description>
+            <link>https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/19059086_10155425025823156_8977463074713160928_n.jpg?oh=b00855e206e5725c2fb5a5f86b7c9b7e&amp;oe=59D93D79</link>
+            <guid isPermaLink="false">79211cf3-dec7-40f6-b445-4d0f3bb2ba3a</guid>
+            <pubDate>Fri, 09 Jun 2017 22:21:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[Vouliagmeni,<article><img src="https://scontent.xx.fbcdn.net/v/t1.0-9/q83/s720x720/18300992_10155302548178156_8461462208345172443_n.jpg?oh=e5249afc8e8cdce14861dd475848611b&oe=59DB3008"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/18670755_10155372474873156_6978302100705583710_n.jpg?oh=e0e2f1dd55cbea88dd6e7a834d01468c&amp;oe=59D9C19E</link>
             <guid isPermaLink="false">4295e044-139c-49b9-a8c8-1d8dd009c379</guid>
             <pubDate>Mon, 05 Jun 2017 20:02:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>End</p>,<img src="https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/18698179_10155385460263156_7561771386002406060_n.jpg?oh=b9b02febd865e65ae77e75026fb22be0&oe=59A39E79">]]></description>
-            <link>https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/18698179_10155385460263156_7561771386002406060_n.jpg?oh=b9b02febd865e65ae77e75026fb22be0&amp;oe=59A39E79</link>
-            <guid isPermaLink="false">a5560a05-933c-4ad3-bd9f-bf2cf6142115</guid>
-            <pubDate>Mon, 29 May 2017 16:20:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
