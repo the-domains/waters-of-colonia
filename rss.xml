@@ -4,9 +4,16 @@
         <description><![CDATA[Stigmes]]></description>
         <link>https://thegrid.ai/waters-of-colonia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 10 Jun 2017 11:30:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jun 2017 14:11:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/waters-of-colonia/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 10 Jun 2017 11:30:26 GMT</pubDate>
+        <pubDate>Sat, 10 Jun 2017 14:11:47 GMT</pubDate>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Ormos</p>,<img src="https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/19059705_10155427280768156_6756848454794978549_n.jpg?oh=a5772bf54fc36f774ad4a1b0489f74dc&oe=59A4D1F1">]]></description>
+            <link>https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/19059705_10155427280768156_6756848454794978549_n.jpg?oh=a5772bf54fc36f774ad4a1b0489f74dc&amp;oe=59A4D1F1</link>
+            <guid isPermaLink="false">418879f3-2af7-4e85-90c7-e3de5f54e912</guid>
+            <pubDate>Sat, 10 Jun 2017 14:11:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Isolation</p>,<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8a9a1eccdf6906ec8a20da8be635eaa5b7c8a22.jpg">]]></description>
@@ -69,13 +76,6 @@
             <link>https://scontent.xx.fbcdn.net/v/t1.0-9/q85/s720x720/17884183_10155231838863156_4305256992697747081_n.jpg?oh=c79aa5fe0263c4e7c7d7e74471552505&amp;oe=59DF1EE2</link>
             <guid isPermaLink="false">5331c590-721a-4c26-8fda-5937a3b81f2d</guid>
             <pubDate>Fri, 09 Jun 2017 20:46:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>They spray us</p>,<img src="https://scontent.xx.fbcdn.net/v/t1.0-9/q84/s720x720/18920182_10155423059333156_7026136837872431326_n.jpg?oh=f0131c40e0a44a346dd33929891e79e5&oe=59DA51F0">]]></description>
-            <link>https://scontent.xx.fbcdn.net/v/t1.0-9/q84/s720x720/18920182_10155423059333156_7026136837872431326_n.jpg?oh=f0131c40e0a44a346dd33929891e79e5&amp;oe=59DA51F0</link>
-            <guid isPermaLink="false">ea4e43a5-063d-4be3-826c-87c40866834f</guid>
-            <pubDate>Fri, 09 Jun 2017 14:15:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
