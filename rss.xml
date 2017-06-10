@@ -4,9 +4,16 @@
         <description><![CDATA[Stigmes]]></description>
         <link>https://thegrid.ai/waters-of-colonia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 09 Jun 2017 22:21:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jun 2017 09:03:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/waters-of-colonia/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 09 Jun 2017 22:21:44 GMT</pubDate>
+        <pubDate>Sat, 10 Jun 2017 09:03:29 GMT</pubDate>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Beloved City</p>,<img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/9c2e949570a7e8e0ac88c7c0bd7d88c6/noop.jpg?input=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fv%2Ft1.0-0%2Fp180x540%2F18194177_10155299424978156_7470977292223330661_n.jpg%3Foh%3D67d67839a1de053f8bd0def182225aa2%26oe%3D59A1B981">]]></description>
+            <link>https://scontent.xx.fbcdn.net/v/t1.0-0/p180x540/18194177_10155299424978156_7470977292223330661_n.jpg?oh=67d67839a1de053f8bd0def182225aa2&amp;oe=59A1B981</link>
+            <guid isPermaLink="false">d696b389-6818-420d-aa0e-76b3807db44e</guid>
+            <pubDate>Sat, 10 Jun 2017 09:03:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[Summer,<article><img src="https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/19059086_10155425025823156_8977463074713160928_n.jpg?oh=b00855e206e5725c2fb5a5f86b7c9b7e&oe=59D93D79"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/18740375_10155402259743156_395487707805055614_n.jpg?oh=f44b14f754dd458daba8ed67d870fe6e&amp;oe=59DF00C3</link>
             <guid isPermaLink="false">e9fd0faa-c750-428d-99cc-0aefc9731981</guid>
             <pubDate>Mon, 05 Jun 2017 20:02:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[Frei-Tag,<article><img src="https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/18670755_10155372474873156_6978302100705583710_n.jpg?oh=e0e2f1dd55cbea88dd6e7a834d01468c&oe=59D9C19E"></article>]]></description>
-            <link>https://scontent.xx.fbcdn.net/v/t1.0-9/s720x720/18670755_10155372474873156_6978302100705583710_n.jpg?oh=e0e2f1dd55cbea88dd6e7a834d01468c&amp;oe=59D9C19E</link>
-            <guid isPermaLink="false">4295e044-139c-49b9-a8c8-1d8dd009c379</guid>
-            <pubDate>Mon, 05 Jun 2017 20:02:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
